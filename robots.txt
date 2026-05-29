@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://your-domain.github.io/xingzhige-site/sitemap.xml
+Sitemap: https://xuzihan92.github.io/chongxuan/sitemap.xml
